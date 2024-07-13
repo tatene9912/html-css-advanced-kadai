@@ -111,7 +111,7 @@ PC用のスタイル
   }
   #nav-sp > a:hover{
     color: #ffffff;
-    text-decoration: overline;
+    text-decoration: underline;
   }
   #nav-sp > a:active{
     color: #ffffff;
